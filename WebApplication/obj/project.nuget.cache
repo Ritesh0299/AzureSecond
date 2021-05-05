@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xln5Bmwh6IrKgIwgwtRlId3ln0M37vcl5iUSWDeymOkJVIWt2PUeY93esfZLAqweG9xjKg4ccd8fL71kIsh0BA==",
+  "dgSpecHash": "sgBA1dDYwykmelgv/Mt3zIoyzsHgbJHLJniDmFBc6cBDsmtYWK/S1M0UF+Q2u3lo9KBEf2pGq60hb8d8DYJVEA==",
   "success": true,
-  "projectFilePath": "D:\\MindtresDotnet\\AzurePractice\\AzureFirst\\WebApplication\\WebApplication\\WebApplication.csproj",
+  "projectFilePath": "D:\\MindtresDotnet\\AzureDemo\\AzureDevops\\AzureSecond\\WebApplication\\WebApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

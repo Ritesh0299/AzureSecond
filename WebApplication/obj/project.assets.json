@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MindtresDotnet\\AzurePractice\\AzureFirst\\WebApplication\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "D:\\MindtresDotnet\\AzureDemo\\AzureDevops\\AzureSecond\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "D:\\MindtresDotnet\\AzurePractice\\AzureFirst\\WebApplication\\WebApplication\\WebApplication.csproj",
+      "projectPath": "D:\\MindtresDotnet\\AzureDemo\\AzureDevops\\AzureSecond\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\MindtresDotnet\\AzurePractice\\AzureFirst\\WebApplication\\WebApplication\\obj\\",
+      "outputPath": "D:\\MindtresDotnet\\AzureDemo\\AzureDevops\\AzureSecond\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
